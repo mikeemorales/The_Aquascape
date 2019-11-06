@@ -1,0 +1,278 @@
+body {
+  font-family: 'quicksand', sans-serif;
+
+}
+
+.callout-container {
+  height: 100vh;
+  background: url(../images/scape1.jpeg) no-repeat bottom right fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+display: flex;
+align-items: center;
+justify-content: center;
+   position: relative;
+}
+
+.callout-container--about {
+  height: 300px;
+  background: url(../images/about.jpg) no-repeat bottom right fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+display: flex;
+align-items: center;
+justify-content: center;
+   position: relative;
+}
+
+.callout-container--books {
+  height: 300px;
+  background: url(../images/books.jpg) no-repeat bottom right fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+display: flex;
+align-items: center;
+justify-content: center;
+   position: relative;
+}
+
+.callout-container--contact {
+  height: 300px;
+  background: url(../images/contact.jpg) no-repeat bottom right fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+display: flex;
+align-items: center;
+justify-content: center;
+   position: relative;
+}
+
+
+
+.opaque-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.75);
+}
+
+
+
+/*Page headers*/
+
+.page-header {
+  margin-bottom: 0;
+  border-bottom: 0;
+  text-align: center;
+}
+
+.page-header h2 {
+  margin-top: 0;
+}
+
+.quotes .page-header {
+  margin-bottom: 25px;
+}
+
+/*jumbotron*/
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.jumbotron-header {
+  color: white;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+
+
+.jumbotron .lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #e2e2e2;
+}
+
+/*buttons*/
+
+.btn--cta {
+  font-weight: bold;
+  border-radius: 23px;
+  width: 120px;
+}
+
+.nav-btn {
+    
+    color: white;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-lg {
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  
+  background-color: #007bff;
+  border-style: none;
+
+}
+
+.btn-success {
+  background-color: #007bff;
+  border-style: none;
+}
+
+.btn .btn-lg .btn-success {
+  background-color: #007bff;
+  border-style: none;
+}
+
+
+.btn--red {
+  color: white;
+  background-color: #007bff;
+  border-color: #007bff;
+  width: 120px;
+}
+
+.btn--mid {
+  color: white;
+  background-color: #007bff;
+  border-color: #007bff;
+  width: 120px;
+}
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+  background-color: #104a88;
+  border-color: #104a88;
+}
+
+
+ /*NAV*/
+.navbar {
+  margin-bottom: 0;
+  border: 0;
+  width: 100%;
+  background-color: rgba(0,0,0,0.75);
+}
+
+.navbar .navbar-toggler {
+  border: 0;
+}
+
+.navlogo {
+  
+  width: 50px;
+  height: 60px;
+}
+
+.navbar .navbar-nav a {
+  font-weight: bold;
+}
+
+.feature {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.feature--foot {
+  margin-top: 50px;
+}
+
+.feature i {
+  margin-bottom: 20px;
+  font-size: 45px;
+  line-height: 45px;
+
+}
+
+.feature .btn {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 35px;
+  min-width: 100px;
+  font-weight: bold;
+  margin-top: 10px;
+  color: white;
+}
+
+/*CONTACT PAGE INFO*/
+
+
+
+
+/*FOOTER*/
+.container-wrapper--foot {
+  background-color: #007bff;
+  height: 350px;
+  margin-top: 5px;
+  padding-bottom: 20px;
+ 
+  
+
+}
+.content-container--foot {
+  margin-top: 10px;
+  padding-bottom: 20px;
+    
+}
+
+
+.footer-h3 {
+  color: white;
+  text-align: center;
+}
+
+.ft-email {
+  width: 250px;
+  height: 40px;
+  float: left;
+  border-radius: 5px;
+  border-style: none;
+  text-align: center;
+}
+
+.ft-submit {
+  background-color: #5fb9a3;
+  color: white;
+  font-weight: bold;
+  border-style: none;
+  height: 40px;
+  width: 90px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.ul-ft {
+  list-style: none;
+  color: white;
+  text-align: center; 
+}
+
+.ft-copyright {
+  text-align: center;
+  
+
+  color: white;
+  
+}
