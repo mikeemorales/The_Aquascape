@@ -221,14 +221,13 @@ justify-content: center;
 
 
 /*FOOTER*/
-.container-wrapper--foot {
-  background-color: #007bff;
-  height: 350px;
-  margin-top: 5px;
-  padding-bottom: 20px;
- 
-  
 
+
+.container-wrapper--foot {
+  margin-top: 10px;
+  padding-bottom: 20px;
+  background-color: #007bff;
+}
 }
 .content-container--foot {
   margin-top: 10px;
@@ -238,7 +237,7 @@ justify-content: center;
 
 
 .footer-h3 {
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 
@@ -248,12 +247,14 @@ justify-content: center;
   float: left;
   border-radius: 5px;
   border-style: none;
+  background-color: rgb(255, 255, 255);
   text-align: center;
+  color: rgb(0, 0, 0);
 }
 
 .ft-submit {
   background-color: #5fb9a3;
-  color: white;
+  color: rgb(255, 255, 255);
   font-weight: bold;
   border-style: none;
   height: 40px;
@@ -265,7 +266,7 @@ justify-content: center;
 
 .ul-ft {
   list-style: none;
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center; 
 }
 
@@ -273,6 +274,7 @@ justify-content: center;
   text-align: center;
   
 
-  color: white;
+  color: rgb(255, 255, 255);
   
 }
+

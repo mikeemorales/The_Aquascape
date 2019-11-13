@@ -2,9 +2,8 @@
 <html lang="en-us">
 
 <head>
-    <meta charset="utf-8">
+      <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
     crossorigin="anonymous">
@@ -18,7 +17,6 @@
 	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
 	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
 	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
-    <link rel="stylesheet" type="text/css" href="../css/login.css">
     <title>The Aquascape</title>
 </head>
 
@@ -58,104 +56,66 @@
     </nav>
         <!--</div>-->
 
-    <div class="container-fluid callout-container"> 
+    <div class="container-fluid callout-container--books"> 
         <!-- Callout -->
         <div class="opaque-overlay">&nbsp;</div>
         <div class="row">
             <div class="col-12">
                 <section class="callout jumbotron text-center">
-                    <h1 class="jumbotron-header">Where aquascaping meets community.</h1>
+                    <h1 class="jumbotron-header">Let's start from the beginning.</h1>
 
-                    <p class="lead">Sign up today to enter our monthly giveaways!</p>
-                    <p><button class="btn btn-lg btn--cta btn--mid" data-toggle="modal" data-target="#signUpModal">Sign Up!</button></p>
+                    <p class="lead">Setting up a new aquascape can be difficult. That's why we are here to help you.</p>
+                    
                     
                 </section>
             </div>
         </div>
     </div>
 
+        <!-- Aquarium Size -->
+        <div class="container col-lg-6">
+             <img src="../images/nanotank.jpg" style="width: 500px; height: 350px;">
+        </div>
+    <div class="container aq-body">
+          <p>
+        <p><h3>Nano</h3></p>
+        <strong>Pros:</strong> less space taken up in homes, easier and cheaper to scape
+       <strong>Cons:</strong>  more frequent water changes, expensive compared to normal aquariums
+        <p><h3>Basic</h3></p>
+       <strong> Pros:</strong> larger fish selection, less water changes, less maintenance
+       <strong> Cons:</strong> larger space taken up, equipment and decor can get expensive
+<br>
+<br>
+<p>Although there are many dimensions an aquarium can take, there are generally two types: nano and basic.
+Nano aquariums are considered to be under 10 gallons (37litres) and are becoming more of a staple in aquarium keeping. 
+They take up less space in your home, can fit practically anywhere, and look amazing when scaped with just the right amount 
+of plants. But one thing to consider is that they are a lot more complicated to maintain. With such small space, they 
+require more frequent water changes and can be quite expensive compared to a basic aquarium. For example, the typical 7 
+gallon nano aquarium (12"x12"12") can cost anywhere from $60 to $90, depending on if they complete rimless glass or black 
+plastic lining for a bolder aesthetic. A unique but highly sought after tank is the 12-gallon long aquarium. 36" in length 
+and 8" height can run about $110 whereas the standard 10-gallon aquarium (20"x10"x12") costs around $20 to $25.
 
-<!-- BODY-->
+<br>
+<p>Basic aquariums are what you would typically find at your local pet store. 10 gallon, 20 gallon tall and long, 40 gallon breeder,
+ 75 and 125 gallon tanks. They are in most homes and have a greater variety for selecting fish due to their large space that's 
+ required to provide less stress. Because of their large size, water changes can be less frequent and filters can be cleaned less. 
+ These aquariums can serve as breeding tanks, housing for larger livestock such as discus or arowana, and can be very pleasing to 
+ look at. But there is no dismissing the fact that these basic aquariums can come in a wide range of price. Large tanks in the triple 
+ digit gallon size can run you quite a tab, but it's no where near as absurd as paying $120 for a 12-gallon tank that is not even 10" tall.</p>
+
+</div>
 
 
 
-
-
-
-<!--MODAL-->
-    <!--Sign Up-->
-    <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
-            <div class="modal-dialog" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title">Join The Aquascape!</h5>
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                        <form>
-                                <div class="form-group">
-                                  <label for="exampleInputEmail1">Email address</label>
-                                  <input type="email" class="form-control" id="password" aria-describedby="emailHelp" >
-                                </div>
-                                <div class="form-group">
-                                        <label for="password">Password</label>
-                                        <input type="password" class="form-control" id="password" >
-                                      </div>
-                                <div class="form-group">
-                                  <label for="repeatPassword">Confirm Password</label>
-                                  <input type="password" class="form-control" id="repeatPassword" >
-                                </div>
-                                
-                                      
-                                <input type="button" value="submit" placeholder="Submit" class="btn btn-success">
-                              </form>
-                </div>
-              
-              </div>
-            </div>
-          </div>
-
-    <!--Log In-->
-              <div class="modal" tabindex="-1" role="dialog" id="loginModal">
-            <div class="modal-dialog" role="document">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title">Sign In</h5>
-                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                  </button>
-                </div>
-                <div class="modal-body">
-                        <form>
-                                <div class="form-group">
-                                  <label for="exampleInputEmail1">Username</label>
-                                  <input type="name" class="form-control" id="password">
-                                </div>
-                                <div class="form-group">
-                                        <label for="password">Password</label>
-                                        <input type="password" class="form-control" id="password" placeholder="Password">
-                                        <small><a href="#" style="color: #007bff;">forgot your password?</a></small>
-                                      </div>
-                                <input type="button" value="Sign In" placeholder="Sign In" class="btn btn-success">
-                                <p></p>
-                                <p>Not a member? <a href="#" style="color: #007bff; font-weight: bold;">Sign Up.</a></p>
-                              </form>
-                </div>
-              
-              </div>
-            </div>
-          </div>
 
         <!-- FOOTER -->
-
         <div class="container-wrapper container-wrapper--foot">
             <div class="container features-container content-container--foot">
             <section class="features">
                 <div class="row">
                     <div class="col-12 page-header">
-                    
+                        
+                        
                     </div>
                 </div>
                 <div class="row">
@@ -178,34 +138,37 @@
                         <div class="feature--foot">
                             <h3 class="footer-h3"> Sign Up!</h3>
                             <hr style="background-color: white;">
-                            <p style="text-align: left; color: rgb(255, 255, 255);">Stay updated on community conversation and our monthly giveaways!</p>
-                        <form>
-                            <p><input type="email" placeholder="Enter Your Email" class="ft-email"></p>
-                            <button type="submit"  target="_self" class="ft-submit">Submit</button>
-                        </form>
+                            <p style="text-align: left; color: white;">Stay updated on community conversation and our monthly giveaways!</p>
+                            <form>
+                                <p><input type="email" placeholder="Enter Your Email" class="ft-email"></p>
+                                <button type="submit"  target="_self" class="ft-submit">Submit</button>
+                            </form>
                         </div>
                     </div>
                     <div class="col-12 d-md-none d-lg-block col-lg-4">
                         <div class="feature--foot">
                             <h3 class="footer-h3">Community</h3>
                             <hr style="background-color: white;">
-                            <p style="text-align: left; color: rgb(255, 255, 255);">&copy;TheAquascape is a proud member of the aquascaping community. We strive to educate and collaborate
+                            <p style="text-align: left; color: white;">&copy;TheAquascape is a proud member of the aquascaping community. We strive to educate and collaborate
                             with like-minded hobbyists and professionals to help inspire those who are foreign to our passion. Let's work together.</p>
                         
                         </div>
                         
                     </div>
-                    
+
+
                 </div>
-                 <div class="ft-copyright">
+                
+            <div class="ft-copyright">
                 <br>
             Copyright &copy;2019 The Aquascape. All Rights Reserved.
             
             </div>
             </section>
-            <!-- /.features -->
+           
         </div>
         <div>
+            
             
         </div>
     </div>
