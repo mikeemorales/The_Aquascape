@@ -24,6 +24,7 @@ The most important page of this website will be the first page in the navigation
 * Algae Control
 * Flora
 * Fauna
+
 The second most essential part of this website is the "Forums" page. This leads to a signup/signin portion of the website, where users can create profiles to access private topics and conversations.
 ### Skeleton
 
