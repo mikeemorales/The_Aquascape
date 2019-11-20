@@ -27,5 +27,14 @@ The most important page of this website will be the first page in the navigation
 
 The second most essential part of this website is the "Forums" page. This leads to a signup/signin portion of the website, where users can create profiles to access private topics and conversations.
 ### Skeleton
-
-![index wireframe](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/index.JPG)
+ #### INDEX wireframe
+![index](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/index.JPG)
+ #### BEGINNER'S GUIDE wireframe
+![beginner's guide](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/beginner's%20guide.JPG)
+ #### FORUM(s) wireframe
+![denied access forum](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/forum%20-%20pre%20ui.JPG)
+![granted access forum](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/forum%20-%20post%20ui.JPG)
+ #### ABOUT wireframe
+![about](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/about.JPG)
+ #### CONTACT wireframe
+![contact](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/contact.JPG)
