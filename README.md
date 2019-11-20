@@ -9,8 +9,9 @@ What started as a simple hobby of mine, became a personal project intended to he
 
 ## UX
 ### User Stories
- • As a user, I want to learn how to build and maintain an aquascape.
- • As a user who has signed up to this website, I want to be able to connect with other members and be able to communicate anything I need with them.
+• As a user, I want to learn how to build and maintain an aquascape.
+
+• As a user who has signed up to this website, I want to be able to connect with other members and be able to communicate anything I need with them.
 ### Strategy
 My intentions are to provide free information on maintaining a fresh-water aquarium and awareness to this style of aquarium-keeping.
 ### Scope
@@ -24,4 +25,5 @@ The most important page of this website will be the first page in the navigation
 * Flora
 * Fauna
 The second most essential part of this website is the "Forums" page. This leads to a signup/signin portion of the website, where users can create profiles to access private topics and conversations.
+### Skeleton
 
