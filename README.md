@@ -38,3 +38,46 @@ The second most essential part of this website is the "Forums" page. This leads 
 ![about](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/about.JPG)
  #### CONTACT wireframe
 ![contact](https://github.com/mikeemorales/The_Aquascape/blob/master/wireframe/contact.JPG)
+
+### Surface
+ key information:
+ #### navbar will be in dark grey, with white text for each page. The Sign in button will reside within the nav as well, with a blue-rounded background button.
+
+ #### each page will have a header image containing a tagline and small description of what the page is about. The index page will contain a sign up modal button.
+
+ #### the footer will contain three columns. Another navigation section to prevent having to scroll back up top to the original nav, a newsletter signup incase the user does not want to create an official account, but would like marketing updates, and a mission statement as the last column.
+
+ #### Typography
+ fonts used across the board are: QUICKSAND - with a back up of sans serif.
+ #### colors
+ the primary colors for this website will be grey, white, and blue. secondary colors will be utilized to add small detail.
+
+ ## Technology
+ * html
+ * css
+ * bootstrap (related js included)
+ 
+ ## Features
+ This site mainly features bootstrap functions (modal, js, grid system, etc.) with customized edits in the css files.
+
+ ## Testing
+ Each page has been tested via web browser and browser source viewer.
+
+ Using the source code in the browser, various screen size testing has been implemented to ensure website functions properly across multiple devices.
+
+ Contact information, login, sign up, etc. required sections have been tested to ensure that an alert may pop up when a section is left blank. If you try to submit a form without a proper email, an alert will pop up stating that said proper email is required.
+
+ The footer contains a link for the instagram account of TheAquascape. "target=_blank" has been used to launch a new window to access the instagram account and has been found succcessful.
+
+ ## Deployment
+
+ This site is deployed through Github Pages directly through the master branch. As I work on this project at work and from home, I have installed the github desktop application to push commits and to clone repositories whenever I'm at a different location. A link has been provided at the top of this document to view the website.
+
+ ## Credits
+
+ ### content
+ • The information provided on this website has been through my original copy and has formed through personal experiences I've had through this hobby. Taglines and header descriptions are all original as well.
+ • Photos have been pulled through free google/images until original content can be photographed or provided by TheAquascape community members (images are currently placeholders for visual value)
+
+ ### Acknowledgements
+ Inspiration for this passion project has been through personal experiences of this hobby. As an aquarium hobbyist for over 15 years, I have decided to culminate a serious of information that I find effective through personal experience. In the future as this website progresses, community members experiences and techniques for solving problems will be provided for educational use and will be properly credited.
