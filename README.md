@@ -2,7 +2,7 @@ https://mikeemorales.github.io/The_Aquascape/html/index.html
 
 # The Aquascape Project - Mikee morales
 ### User Centric Front-end milestone project 1
-TheAquascape is intended to provide __*free*__ information on starting a live planted, fresh-water aquarium and how to maintain them in the healthiest way possible.
+TheAquascape is intended to provide __*FREE*__ information on starting a live planted, fresh-water aquarium and how to maintain them in the healthiest way possible.
 With the main focus being an informational website, this site will also contain a forum portion where users can sign up, build a profile, ask questions, share tank photos, chat with one another, and have the opportunity to win giveaways to help maintain their tanks (for users who sign up only).
 
 What started as a simple hobby of mine, became a personal project intended to help bring more awareness to this creative and natural hobby.
