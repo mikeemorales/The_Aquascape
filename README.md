@@ -76,8 +76,9 @@ The second most essential part of this website is the "Forums" page. This leads 
  ## Credits
 
  ### content
- • The information provided on this website has been through my original copy and has formed through personal experiences I've had through this hobby. Taglines and header descriptions are all original as well.
- • Photos have been pulled through free google/images until original content can be photographed or provided by TheAquascape community members (images are currently placeholders for visual value)
+• The information provided on this website has been through my original copy and has formed through personal experiences I've had through this hobby. Taglines and header descriptions are all original as well.
+
+• Photos have been pulled through free google/images until original content can be photographed or provided by TheAquascape community members (images are currently placeholders for visual value)
 
  ### Acknowledgements
  • Inspiration for this passion project has been through personal experiences of this hobby. As an aquarium hobbyist for over 15 years, I have decided to culminate a serious of information that I find effective through personal experience. In the future as this website progresses, community members experiences and techniques for solving problems will be provided for educational use and will be properly credited.
