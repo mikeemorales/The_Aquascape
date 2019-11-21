@@ -72,9 +72,12 @@ The second most essential part of this website is the "Forums" page. This leads 
  #### THINGS THAT HAVE NOT BEEN IMPLEMENTED 
 * Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Content will be added later
 * SignUp/SignIn Submit's do not have an active requirement alert when trying to submit.
+* Log In's and Sign Up's are currently available for aesthetic purpose. Database and internal framework has not been implemented at this point.
+* Forum page is currently available for aesthetic purpose. Database and internal framework has not been implemented at this point.
+* Forms are currently available for aesthetic purpose. Databse and internal framework for submitting has not been implemented at this point.
 
 #### SOCIAL MEDIA
-* The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer.
+* The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer. No other social icons (fb,linkedin,email) are needed for this website.
 
  ## Deployment
 
