@@ -70,7 +70,7 @@ The second most essential part of this website is the "Forums" page. This leads 
  The footer contains a link for the instagram account of TheAquascape. "target=_blank" has been used to launch a new window to access the instagram account and has been found succcessful.
 
  #### THINGS THAT HAVE NOT BEEN IMPLEMENTED 
-* Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Content will be added later
+* Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Due to the vast amount of information needed, content will be updated at a later time for said subpages.
 * Log In's and Sign Up's are currently for aesthetic purpose. Database and internal framework has not been implemented at this point.
 * Forum page is currently for aesthetic purpose. Database and internal framework has not been implemented at this point.
 * Forms are currently for aesthetic purpose. Datbase and internal framework for submitting has not been implemented at this point.
