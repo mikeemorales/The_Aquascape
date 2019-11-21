@@ -77,7 +77,7 @@
             <section class="features">
                 <div class="row">
                     <div class="col-12 page-header">
-                    <h2 class="text-uppercase"></h2>
+
                     
                 </div>
             </div>
@@ -131,7 +131,9 @@
 
     </div>
         </div>
-        <!--Sign Up-->
+
+        <!--MODAL-->
+    <!--Sign Up-->
     <div class="modal" tabindex="-1" role="dialog" id="signUpModal">
             <div class="modal-dialog" role="document">
               <div class="modal-content">
@@ -142,22 +144,22 @@
                   </button>
                 </div>
                 <div class="modal-body">
-                        <form>
+                        <form class="needs-validation" novalidate> 
                                 <div class="form-group">
-                                  <label for="exampleInputEmail1">Email address</label>
-                                  <input type="email" class="form-control" id="password" aria-describedby="emailHelp" >
+                                  <label>Email address</label>
+                                  <input type="email" class="form-control" required>
                                 </div>
                                 <div class="form-group">
-                                        <label for="password">Password</label>
-                                        <input type="password" class="form-control" id="password" >
+                                        <label>Password</label>
+                                        <input type="password" class="form-control" required>
                                       </div>
                                 <div class="form-group">
-                                  <label for="repeatPassword">Confirm Password</label>
-                                  <input type="password" class="form-control" id="repeatPassword" >
+                                  <label>Confirm Password</label>
+                                  <input type="password" class="form-control" required>
                                 </div>
                                 
                                       
-                                <input type="button" value="submit" placeholder="Submit" class="btn btn-success">
+                                <input type="button" value="submit" class="btn btn-success">
                               </form>
                 </div>
               
@@ -176,17 +178,17 @@
                   </button>
                 </div>
                 <div class="modal-body">
-                        <form>
+                        <form class="needs-validation" novalidate>
                                 <div class="form-group">
-                                  <label for="exampleInputEmail1">Username</label>
-                                  <input type="name" class="form-control" id="password">
+                                  <label>Username</label>
+                                  <input type="text" class="form-control" required>
                                 </div>
                                 <div class="form-group">
-                                        <label for="password">Password</label>
-                                        <input type="password" class="form-control" id="password" placeholder="Password">
+                                        <label>Password</label>
+                                        <input type="password" class="form-control" placeholder="Password" required>
                                         <small><a href="#" style="color: #007bff;">forgot your password?</a></small>
                                       </div>
-                                <input type="button" value="Sign In" placeholder="Sign In" class="btn btn-success">
+                                <input type="button" value="Sign In" class="btn btn-success">
                                 <p></p>
                                 <p>Not a member? <a href="#" style="color: #007bff; font-weight: bold;">Sign Up.</a></p>
                               </form>
@@ -230,7 +232,7 @@
                             <p style="text-align: left; color: white;">Stay updated on community conversation and our monthly giveaways!</p>
                             <form>
                                 <p><input type="email" placeholder="Enter Your Email" class="ft-email"></p>
-                                <button type="submit"  target="_self" class="ft-submit">Submit</button>
+                                <button type="submit" class="ft-submit">Submit</button>
                             </form>
                         </div>
                     </div>
