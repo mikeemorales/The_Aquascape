@@ -9,9 +9,9 @@ What started as a simple hobby of mine, became a personal project intended to he
 
 ## UX
 ### User Stories
-• As a user, I want to learn how to build and maintain an aquascape.
+* As a user, I want to learn how to build and maintain an aquascape.
 
-• As a user who has signed up to this website, I want to be able to connect with other members and be able to communicate anything I need with them.
+* As a user who has signed up to this website, I want to be able to connect with other members and be able to communicate anything I need with them.
 ### Strategy
 My intentions are to provide free information on maintaining a fresh-water aquarium and awareness to this style of aquarium-keeping.
 ### Scope
@@ -70,10 +70,11 @@ The second most essential part of this website is the "Forums" page. This leads 
  The footer contains a link for the instagram account of TheAquascape. "target=_blank" has been used to launch a new window to access the instagram account and has been found succcessful.
 
  #### THINGS THAT HAVE NOT BEEN IMPLEMENTED 
-• Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Content will be added later
-• SignUp/SignIn Submit's do not have an active requirement alert when trying to submit.
+* Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Content will be added later
+* SignUp/SignIn Submit's do not have an active requirement alert when trying to submit.
+
 #### SOCIAL MEDIA
-• The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer.
+* The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer.
 
  ## Deployment
 
@@ -82,11 +83,11 @@ The second most essential part of this website is the "Forums" page. This leads 
  ## Credits
 
  ### content
-• The information provided on this website has been through my original copy and has formed through personal experiences I've had through this hobby. Taglines and header descriptions are all original as well.
+* The information provided on this website has been through my original copy and has formed through personal experiences I've had through this hobby. Taglines and header descriptions are all original as well.
 
-• Photos have been pulled through free google/images until original content can be photographed or provided by TheAquascape community members (images are currently placeholders for visual value)
+* Photos have been pulled through free google/images until original content can be photographed or provided by TheAquascape community members (images are currently placeholders for visual value)
 
  ### Acknowledgements
- • Inspiration for this passion project has been through personal experiences of this hobby. As an aquarium hobbyist for over 15 years, I have decided to culminate a serious of information that I find effective through personal experience. In the future as this website progresses, community members experiences and techniques for solving problems will be provided for educational use and will be properly credited.
+ * Inspiration for this passion project has been through personal experiences of this hobby. As an aquarium hobbyist for over 15 years, I have decided to culminate a serious of information that I find effective through personal experience. In the future as this website progresses, community members experiences and techniques for solving problems will be provided for educational use and will be properly credited.
 
 **INSPIRATION FOR THE INDEX PAGE HAS COME FROM THE PREVIOUS WHISKEY-SITE-PROJECT, BUT HAS BEEN CUSTOMIZED ACCORDINGLY**
