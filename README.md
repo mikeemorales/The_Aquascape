@@ -93,4 +93,3 @@ The second most essential part of this website is the "Forums" page. This leads 
  ### Acknowledgements
  * Inspiration for this passion project has been through personal experiences of this hobby. As an aquarium hobbyist for over 15 years, I have decided to culminate a series of information that I find effective through personal experience. In the future as this website progresses, community members experiences and techniques for solving problems will be provided for educational use and will be properly credited.
 
-**INSPIRATION FOR THE INDEX PAGE HAS COME FROM THE PREVIOUS WHISKEY-SITE-PROJECT, BUT HAS BEEN CUSTOMIZED ACCORDINGLY**
