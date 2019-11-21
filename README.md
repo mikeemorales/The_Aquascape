@@ -73,7 +73,7 @@ The second most essential part of this website is the "Forums" page. This leads 
 * Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Due to the vast amount of information needed, content will be updated at a later time for said subpages.
 * Log In's and Sign Up's are currently for aesthetic purpose. Database and internal framework has not been implemented at this point.
 * Forum page is currently for aesthetic purpose. Database and internal framework has not been implemented at this point.
-* Forms are currently for aesthetic purpose. Datbase and internal framework for submitting has not been implemented at this point.
+* Forms are currently for aesthetic purpose. Database and internal framework for submitting has not been implemented at this point.
 
 #### SOCIAL MEDIA
 * The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer. No other social icons (fb,linkedin,email) are needed for this website.
