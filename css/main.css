@@ -215,6 +215,13 @@ justify-content: center;
   color: white;
 }
 
+.container-begin {
+  padding-top: 30px;
+  padding-bottom: 5px;
+  font-size: 1.2em;
+}
+
+
 /*CONTACT PAGE INFO*/
 
 
