@@ -69,6 +69,12 @@ The second most essential part of this website is the "Forums" page. This leads 
 
  The footer contains a link for the instagram account of TheAquascape. "target=_blank" has been used to launch a new window to access the instagram account and has been found succcessful.
 
+ #### THINGS THAT HAVE NOT BEEN IMPLEMENTED 
+• Beginner's guide sub pages: Only the "Aquarium Size" subpage button has a working subpage. The rest only have descriptions of what the subpages contain. Content will be added later
+• SignUp/SignIn Submit's do not have an active requirement alert when trying to submit.
+#### SOCIAL MEDIA
+• The only social media linked to this website is an instagram page (which is fully functional and running). This link is located in the footer.
+
  ## Deployment
 
  This site is deployed through Github Pages directly through the master branch. As I work on this project at work and from home, I have installed the github desktop application to push commits and to clone repositories whenever I'm at a different location. A link has been provided at the top of this document to view the website.
