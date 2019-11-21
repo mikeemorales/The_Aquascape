@@ -80,7 +80,7 @@ The second most essential part of this website is the "Forums" page. This leads 
 
  ## Deployment
 
- This site is deployed through Github Pages directly through the master branch. As I work on this project at work and from home, I have installed the github desktop application to push commits and to clone repositories whenever I'm at a different location. A link has been provided at the top of this document to view the website.
+ This site is deployed through Github Pages directly through the master branch. As I work on this project at work and from home, I have installed the github desktop application to push commits whenever I'm at a different location. A link has been provided at the top of this document to view the website.
 
  ## Credits
 
